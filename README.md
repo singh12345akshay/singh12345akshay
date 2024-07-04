@@ -17,10 +17,8 @@ A little about me:
 - 📚  Self-taught
 
 ### ⚡ Skills:
-- ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
-
-### 🛠 Tools:
-![Azure](https://img.shields.io/badge/-Azure-326CE5?&logo=Azure&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon%20aws&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=FFFFFF) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform&logoColor=FFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF)
+- ![Nodejs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-yellowgreen) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
+![ReactJs](https://img.shields.io/badge/-ReactjS-yellowgreen)
 
 ### 📈 Stats 
  
