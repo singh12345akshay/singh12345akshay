@@ -18,7 +18,7 @@ A little about me:
 
 ### ⚡ Skills:
 - ![Nodejs](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-yellowgreen) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
-![ReactJs](https://img.shields.io/badge/-ReactjS-yellowgreen)
+![ReactJs](https://img.shields.io/badge/-ReactjS-yellowgreen)  ![HTML](https://img.shields.io/npm/v/npm.svg?logo=html)  ![CSS](https://img.shields.io/npm/v/npm.svg?logo=css)  ![Database](https://img.shields.io/npm/v/npm.svg?logo=database)
 
 ### 📈 Stats 
  
