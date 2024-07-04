@@ -24,11 +24,12 @@ A little about me:
 
 ### 📈 Stats 
  
-[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=aviinash3&theme=cobalt&show_icons=true)](https://github.com/aviinash3/github-readme-stats)
+[![Akshay github stats](https://github-readme-stats.vercel.app/api?username=singh12345akshay&theme=cobalt&show_icons=true)](https://github.com/singh12345akshay/github-readme-stats)
 
 ### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviinash3&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singh12345akshay&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
-
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aviinashkr/)](https://www.linkedin.com/in/aviinashkr/)
+-->
