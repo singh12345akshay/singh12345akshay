@@ -12,8 +12,8 @@
 A little about me:
 
 - 🇨🇦  Indore, **MP, INDIA**.
-- 🔭  I’m currently working with **Azure**, **AWS** and **Kubernetes**.
-- 🌱  I’m currently learning everything related to **DevOps** and **automation**.
+- 🔭  I’m currently working with **NextJs**, **ReactJs** and **Javascript**.
+- 🌱  I’m currently learning related to **AWS** and **GraphQL**.
 - 📚  Self-taught
 
 ### ⚡ Skills:
