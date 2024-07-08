@@ -11,7 +11,7 @@
 
 A little about me:
 
-- 🇨🇦  Indore, **MP, INDIA**.
+- 🇮🇳  Indore, **MP, INDIA**.
 - 🔭  I’m currently working with **NextJs**, **ReactJs** and **Javascript**.
 - 🌱  I’m currently learning related to **AWS** and **GraphQL**.
 - 📚  Self-taught
